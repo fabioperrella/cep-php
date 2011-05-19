@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ERROR);
-header('content-type: text/plain; charset: utf-8');
+header('content-type: application/json; charset: utf-8');
 
 $db_host = 'localhost';
 $db_user = 'root';
