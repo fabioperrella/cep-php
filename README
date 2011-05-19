@@ -1,3 +1,5 @@
-Esse projeto é apenas um PHP que recebe o param cep do GET e busca na base de dados do Correios as informacoes de endereco
+Esse projeto é apenas um PHP que recebe o param cep do GET e busca na base de dados do Correios as informacoes de endereco.
+
+O retorno esta em json.
 
 A base de dados baixei de http://www.republicavirtual.com.br/cep/download/cep.sql.bz2
